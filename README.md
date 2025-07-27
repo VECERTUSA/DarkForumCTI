@@ -9,6 +9,7 @@ Content to help those affected and map digital crime.
 pip install -r requirements.txt
 
      VECERT - Security Research Tool
+     pip install -r requirements.txt
 
 For Educational Use Only | Cybercrime Investigation
 <img width="1209" height="1745" alt="VECERT" src="https://github.com/user-attachments/assets/9cb79592-8737-4f31-b750-b1e98e3eee4b" />
